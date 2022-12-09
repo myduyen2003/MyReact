@@ -16,3 +16,4 @@ bài tập môn React
 13.[Câu 21](https://codepen.io/myduyen2003/pen/qBKJMoX)
 ## thực hành
 1.[bài thực hành props và state](https://codepen.io/myduyen2003/pen/LYrJMKB)
+2.[bài thực hành 1](https://codesandbox.io/s/bth1-ug7dpz?file=/src/styles.css)
